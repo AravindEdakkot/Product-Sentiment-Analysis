@@ -6,4 +6,25 @@ This project does not need any api for scrapping reviews from the websites.
 
 ![Image Alt](https://github.com/AravindEdakkot/product-sentiment-analysis/blob/64c4dc3030979481e6068fcfc61965153536faa0/Images/Screenshot%202025-03-21%20153137.png)
 
+
+## Installation
+
+Install requirements.txt
+
+```bash
+  pip install -r requirements.txt
+```
+### Run the program
+
+Run the app.py using:
+```bash
+python -m streamlit run app.py
+```
+
 ## Features
+
+- Review extraction
+- Review sentiment
+- Export as CSV
+- Easy deployment
+
