@@ -1,0 +1,10 @@
+urllib.parse
+re
+pandas
+streamlit
+webdriver_manager.chrome
+selenium.webdriver.chrome.service
+selenium
+selenium.webdriver.common.by
+random
+time
